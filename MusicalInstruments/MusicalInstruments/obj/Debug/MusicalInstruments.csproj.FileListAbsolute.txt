@@ -1,0 +1,7 @@
+C:\Users\dougl\source\repos\MusicalInstruments\MusicalInstruments\bin\Debug\MusicalInstruments.exe.config
+C:\Users\dougl\source\repos\MusicalInstruments\MusicalInstruments\bin\Debug\MusicalInstruments.exe
+C:\Users\dougl\source\repos\MusicalInstruments\MusicalInstruments\bin\Debug\MusicalInstruments.pdb
+C:\Users\dougl\source\repos\MusicalInstruments\MusicalInstruments\obj\Debug\MusicalInstruments.csproj.CoreCompileInputs.cache
+C:\Users\dougl\source\repos\MusicalInstruments\MusicalInstruments\obj\Debug\MusicalInstruments.exe
+C:\Users\dougl\source\repos\MusicalInstruments\MusicalInstruments\obj\Debug\MusicalInstruments.pdb
+C:\Users\dougl\source\repos\MusicalInstruments\MusicalInstruments\obj\Debug\MusicalInstruments.csproj.AssemblyReference.cache
